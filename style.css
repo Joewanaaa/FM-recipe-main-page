@@ -3,8 +3,7 @@ body{
     font-weight: 400;
     font-style: normal;
     font-size: 16px;
-    background-color: hsl(330, 100%, 98%);
-}
+    background-color: hsl(30, 18%, 87%);
 
 .attribution {
     font-family: "Outfit", sans-serif; 
@@ -55,7 +54,7 @@ p, .prep-summary, li, .table{
 }
 
 h2{
-    color: hsl(332, 51%, 32%);
+    color: hsl(14, 45%, 36%);
     font-size: 1.8rem;
     padding-bottom: 20px;
     padding-top: 15px;
@@ -65,7 +64,7 @@ hr{
 }
 
 .table td{
-    color: hsl(332, 51%, 32%);
+    color: hsl(14, 45%, 36%);
     font-weight: 700;
 }
 
@@ -115,7 +114,7 @@ li span{
 
 @media (min-width: 491px) and (max-width:767px){
     body{
-        background-color: hsl(330, 100%, 98%);
+        background-color: hsl(30, 18%, 87%);
     }
 
     .card{
